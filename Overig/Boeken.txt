@@ -1,0 +1,45 @@
+📘 1. “Computer Science Illuminated” – Nell Dale & John Lewis
+Inhoud: Dit boek behandelt de kernconcepten van informatica, waaronder algoritmes, datastructuren, hardware, software en programmeerlogica.
+
+Voordeel: Ideaal voor wie een breed overzicht wil van hoe computers en programmeren werken.
+
+Taal: Engels, soms wat theoretisch.
+
+
+
+📙 2. “How to Design Programs” – Matthias Felleisen e.a.
+Inhoud: Gaat diep in op hoe je stap voor stap goed gestructureerde programma’s maakt. Je leert vooral hoe je moet denken als programmeur.
+
+Voordeel: Gericht op probleemoplossing en logica, niet op syntax van één specifieke taal.
+
+Taal: Engels, ook online gratis te lezen via: https://htdp.org/
+
+
+
+
+📕 3. “Code: The Hidden Language of Computer Hardware and Software” – Charles Petzold
+Inhoud: Hoewel niet strikt een programmeerboek, is dit een uitstekende inleiding in hoe computers denken, rekenen, en programmeren op een diep niveau.
+
+Voordeel: Leerzaam voor inzicht in het grotere geheel – van binaire logica tot software.
+
+Taal: Engels, heel toegankelijk geschreven.
+
+
+
+
+📗 4. “Grokking Algorithms” – Aditya Bhargava
+Inhoud: Uitleg van algoritmes (zoals sorteren, zoeken, recursie, graafdoorloop) met veel visuele ondersteuning.
+
+Voordeel: Super geschikt voor beginners. Helpt echt om concepten te begrijpen in plaats van alleen maar uit te voeren.
+
+Taal: Engels, met Python-achtige pseudocode.
+
+
+
+
+📔 5. “The Pragmatic Programmer” – Andrew Hunt & David Thomas
+Inhoud: Geen leerboek voor syntax, maar een handleiding vol praktische inzichten en best practices om als programmeur te groeien.
+
+Voordeel: Gericht op denkprocessen, leesbaarheid, debugging, clean code.
+
+Taal: Engels, geschikt voor elk niveau.
