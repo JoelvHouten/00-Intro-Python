@@ -51,5 +51,6 @@ def get_tmdb_info(title, year, api_key):
     print(f"Images: {image_urls}")
     print(f"Trailer: {trailer_url}")
 
-api_key = "4e2992e109ff54af27913f400b05c236"
+api_key = ""
 get_tmdb_info("Payback", "1999", api_key)
+
